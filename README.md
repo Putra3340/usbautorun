@@ -15,6 +15,13 @@ Thank you for downloading my content:)
 
 -enjoy
 
+<h1>Usage</h1>
+
+If You didn't understand
+
+Watch Putra3340 In youtube
+
+
 
 <h2>You You can change the autorun script as you like</h2>
 
