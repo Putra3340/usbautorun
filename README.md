@@ -1,12 +1,17 @@
 # Usbauto
 Thank you for downloading my content:)
 
-Here Tutorial
+#Tutorial
 -Extract
+
 -Copy/cut autorun.bat into your usb stick
+
 -plug out your usb stick
+
 -run F Partition.bat  // run Partition.bat
+
 -plug your usb stick
+
 -enjoy
 
 
